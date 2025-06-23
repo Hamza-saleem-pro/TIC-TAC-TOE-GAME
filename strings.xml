@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TIC TAC TOE</string>
+    <string name="game_name">TIC TAC TOE</string>
+    <string name="play_now_btn">PLAY NOW..!</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="reset_btn">Reset</string>
+</resources>
